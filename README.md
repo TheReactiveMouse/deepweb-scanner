@@ -1,2 +1,2 @@
-# deepweb-scanner
-Opensource deep web scanner, generating random IP and checking for site availability on Python.
+# Welcome!
+## Do you want to look for something unknown in the thinnest places of the Internet that are not indexed by Google and Yandex? We will help!
