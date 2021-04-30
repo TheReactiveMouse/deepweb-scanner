@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "background-functions": "^1.0.6",
+    "prompt-sync": "^4.2.0",
+    "superagent": "^6.1.0",
+    "terminal-kit": "^2.0.7"
+  }
+}
