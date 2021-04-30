@@ -14,6 +14,8 @@ console.log("And.. Select port to scan, you can scan HTTPS or HTTP and etc");
 const port = prompt(">");
 console.log("HTTPS[1] or HTTP[2]?");
 const protocol = prompt(">");
+console.log("How much is timeout?");
+const timeout = prompt("MS : ")
 if (!selection || !port || protocol != 1 && protocol != 2){
     console.log("No data.Exiting...");
 } else {
@@ -42,6 +44,6 @@ if (!selection || !port || protocol != 1 && protocol != 2){
                         }
                     } catch {
                     }
-                });
+                }).timeout(timeout);
             }
 }
