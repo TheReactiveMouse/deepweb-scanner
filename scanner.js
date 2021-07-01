@@ -1,4 +1,4 @@
-const { request } = require("node:http");
+const { request } = require("http");
 const scanner = require("superagent");
 const fs = require('fs');
 const prompt = require('prompt-sync')();
