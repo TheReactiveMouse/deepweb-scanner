@@ -1,9 +1,10 @@
 # Welcome!
-## Do you want to look for something unknown in the thinnest places of the Internet that are not indexed by Google and Yandex? We will help!
+## Just an internet indexer.
 
-This program will allow you to scan your local network, and even the public Internet! For example want to find an abandoned server based on Windows Server? You can find this with our utility! The main thing is to wait, nevertheless the Internet is huge.
+I just made an Internet indexer, which, without unnecessary garbage, helps you find various Internet sites in automatic mode.
+For it to work, you just need to specify the port, protocol and number of sites! It will find a variety of sites for you and sort them by file, live - in a separate file, dead - in a separate one.
 
 ###### How much does the program cost?
-The program is absolutely free! Of course, we are ready to accept support, but our program will always be free and we will never be sold or become paid software.
+This program is free, if you find an error, then just report it and offer your own solution if you are a developer.
 
-IF SCANNING WORLD WIDE WEB IS NOT LEGAL IN YOUR CONTRY, DO NOT USE IT SOFTWARE! THE AUTHOR IS NOT RESPONSIBLE FOR YOUR ACTIONS IN THIS PROGRAM! YOU ARE RESPONSIBLE!
+Attention! Web scanning is illegal in some countries and can lead to criminal liability! The author is not responsible for how you use this program!
